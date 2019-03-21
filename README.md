@@ -1,3 +1,4 @@
 # Java
-My way to   learn it
-wonder
+
+My way to learn it
+
