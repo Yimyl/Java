@@ -1,3 +1,2 @@
 # Java
-My way to   learn it
-I try now.
+My way to learn it
