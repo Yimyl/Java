@@ -1,3 +1,4 @@
+//Arrays调用了DualPivotQuicksort.sort(a, fromIndex, toIndex - 1, null, 0, 0)（有很多重载，只是其一）;下面是其代码
 static void sort(int[] a, int left, int right,
                      int[] work, int workBase, int workLen) {
         // Use Quicksort on small arrays
